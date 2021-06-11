@@ -57,7 +57,7 @@ pandas, numpy, sklearn, matplotlib, seaborn, altair
 #### Описание проекта
 Есть данные клиентов одной страховой компании. Необходимо разработать алгоритм преобразования данных, при котором сложно восстановить первоначальную информацию, при этом качество модели машинного обучения на преобразованных данных должно остаться на том же уровне.
 
-### 10. [Определение стоимости автомобилей](https://github.com/BurakouskiPavel/My-training-projects/blob/main/%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81.%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D1%83%D0%BC.%20DataScience/10.%20%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D1%81%D1%82%D0%BE%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8%20%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D0%B5%D0%B9/readme.md)
+### 10. [Определение стоимости автомобилей](https://github.com/BurakouskiPavel/My-training-projects/tree/main/%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81.%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D1%83%D0%BC.%20DataScience/10.%20%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D1%81%D1%82%D0%BE%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8%20%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D0%B5%D0%B9)
 #### Используемые библиотеки
 pandas, numpy, math, sklearn, lightgbm, matplotlib, seaborn, altair
 #### Описание проекта
